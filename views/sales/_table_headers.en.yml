@@ -1,0 +1,10 @@
+en:
+  sales:
+    table_headers:
+      order_id: 'Order ID'
+      date: 'Date'
+      products: 'Products'
+      value: 'Value'
+      outstanding: 'Outstanding'
+      status: 'Status'
+      to_pay: 'Total'

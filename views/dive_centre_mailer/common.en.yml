@@ -1,0 +1,8 @@
+en:
+  dive_centre_mailer:
+    common:
+      dive_centre_hq: 'Dive Centre HQ'
+      dchq_team: 'The Dive Centre HQ Team'
+      hi: 'Hi %{full_name},'
+      happy_diving: 'Happy diving!'
+      registered_office: 'Registered Office: Oceans HQ Ltd, Kemp House, 152-160 City Road, London, EC1V 2NX. Company No: 08486423.'

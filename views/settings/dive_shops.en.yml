@@ -1,0 +1,14 @@
+en:
+  settings:
+    dive_shops:
+      home: 'Home'
+      settings: 'Settings'
+      settings_shop_locations: 'Settings: Shop Locations'
+      content: 'You can add as many shop locations to your account. For each additional shop, there is an extra charge of £25/month on top of your existing subscription.'
+      agreement: 'By adding an extra shop, you are agreeing to the extra charge.'
+      locations: 'Locations'
+      add_location: 'Add Location'
+      current_subscription: 'Current Subscription'
+      plan: 'Plan'
+      additional_shop_locations: 'Additional Shop Locations'
+      total_monthly_price: 'Total Monthly Price'
