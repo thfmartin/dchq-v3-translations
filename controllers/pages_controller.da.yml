@@ -1,0 +1,4 @@
+da:
+  pages:
+    flash:
+      card_declined: "Dit kort blev afvist for dit månedlige abonnement. Sørg for, at dit kort er stadig gyldig <a href='%{url}'>FLERE DETALJER </a>"
