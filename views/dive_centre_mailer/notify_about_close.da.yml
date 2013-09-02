@@ -1,0 +1,9 @@
+en:
+  dive_centre_mailer:
+    notify_about_close:
+      hello: 'Hello %{full_name},'
+      register_for: 'The register for'
+      currelntly_closed: 'is currently closed. %{name} is requesting you open the register.'
+      open_register: 'Open Register'
+      best_wishes: 'Best wishes,'
+      registered_office: 'Registered Office:'

@@ -1,0 +1,20 @@
+en:
+  dive_centre_mailer:
+    welcome:
+      thanks: 'Thanks for signing up for the'
+      free_trial: 'Free Trial of Dive Centre HQ'
+      congratulations: 'Congratulations, your account is now active!'
+      congratulations2: 'Congratulations on taking the giant stride into online dive centre management - your customers and staff will thank you for it!'
+      able_to_login: '. You are now able to login any time, from anywhere to easily manage your dive centre. Here are your login details:'
+      login_details: 'Login details'
+      account_access: 'Account access:'
+      username: 'Username:'
+      password: 'Password:'
+      set_a_registration: 'Set at registration'
+      login_to_dchq: 'Login to Dive Centre HQ'
+      regular_softwear_updates: 'Regular software updates'
+      dchq_is_continually_updated: "Dive Centre HQ is continually updated so you will always have the latest and greatest version of our software. To keep you up to date on all feature updates, we've created"
+      its_a_good_idea: "- it's a good idea to check it regularly or to subscribe via RSS so that you're in the loop on our new features and updates."
+      support: 'Should you need it, support is only a single click away!'
+      check_out: 'Check out the'
+      for_useful: "for useful tips and demonstrations on getting the most out of our software. You'll always reach a friendly person on the other end, and we're pretty quick to respond too!"

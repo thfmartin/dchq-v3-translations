@@ -1,0 +1,8 @@
+en:
+  settings:
+    integrations:
+      home: 'Home'
+      settings: 'Settings'
+      settings_integrations: 'Settings: 3rd Party Integrations'
+      xero: 'Xero Online Accounting'
+      mailchimp: 'MailChimp Email Marketing'

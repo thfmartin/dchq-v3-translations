@@ -1,0 +1,8 @@
+en:
+  dive_centre_mailer:
+    created_new_dive_centre:
+      dive_centre_name: 'Dive Centre Name:'
+      owner_email: 'Owner Email:'
+      fname: 'FName'
+      lname: 'LName'
+      phone: 'Phone'
