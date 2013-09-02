@@ -1,4 +1,4 @@
-en:
+da:
   events:
     print_resource_utilisation:
       h2: Resource Utilisation Report for %{starts_at} to %{ends_at}

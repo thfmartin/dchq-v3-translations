@@ -1,4 +1,4 @@
-en:
+da:
   dive_centre_mailer:
     stripe_payment_failed:
       unfortunately: "Unfortunately we've been unable to take payment from the credit card on file for this month's Dive Centre HQ subscription. This can happen for a number of reasons such as the card has expired, or its got a temporary block against it."

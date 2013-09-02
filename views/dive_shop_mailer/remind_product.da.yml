@@ -1,4 +1,4 @@
-en:
+da:
   dive_shop_mailer:
     remind_product:
       hello: 'Hello %{full_name},'

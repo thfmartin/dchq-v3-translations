@@ -1,4 +1,4 @@
-en:
+da:
   dive_centre_mailer:
     notify_about_close:
       hello: 'Hello %{full_name},'
