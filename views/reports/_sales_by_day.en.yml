@@ -5,5 +5,6 @@ en:
       refine_dates: 'Refine Dates'
       sales_tax: 'Sales inc. Tax'
       tax: 'Tax'
-      cost_of_goods: 'Cost of Googs'
+      cost_of_goods: 'Cost of Goods'
       gross_profit: 'Gross Profit'
+      taxable_revenue: Taxable Revenue

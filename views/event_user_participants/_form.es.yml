@@ -1,0 +1,12 @@
+es:
+  event_user_participants:
+    form:
+      home: 'Inicio'
+      events: 'Eventos'
+      add_staff: 'Agregar Personal'
+      update_staff: 'Actualizar Personal'
+      add_staff_to_event: 'Agregar Miembro del Personal al Evento'
+      update_staff_in_event: 'Actualizar Miembro del Personal en Evento'
+      staff_member: 'Miembro del Personal'
+      staff_role: 'Personal & Función'
+      staff_role_text: 'Seleccione el miembro del personal e ingrese su función.'

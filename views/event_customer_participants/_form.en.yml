@@ -5,6 +5,8 @@ en:
       events: 'Events'
       add_customer: 'Add Customer'
       update_customer: 'Update Customer'
+      add_customer_to_event: 'Add Customer to Event'
+      update_customer_in_event: 'Update Customer in Event'
       customer_details: 'Customer Details'
       customer: 'Customer'
       customer_text: 'Select the customer you want to add to this event.'

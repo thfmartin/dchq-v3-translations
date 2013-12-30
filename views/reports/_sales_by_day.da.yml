@@ -1,9 +1,0 @@
-da:
-  reports:
-    sales_by_day:
-      sales_by_day: 'Sales By Day'
-      refine_dates: 'Refine Dates'
-      sales_tax: 'Sales inc. Tax'
-      tax: 'Tax'
-      cost_of_goods: 'Cost of Googs'
-      gross_profit: 'Gross Profit'

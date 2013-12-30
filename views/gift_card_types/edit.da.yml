@@ -1,8 +1,0 @@
-da:
-  gift_card_types:
-    edit:
-      home: 'Home'
-      sales: 'Sales'
-      gift_cards: 'Gift Cards'
-      edit_gift_card_type: 'Edit Gift Card Type'
-

@@ -1,9 +1,0 @@
-da:
-  dive_centre_mailer:
-    stripe_payment_failed:
-      unfortunately: "Unfortunately we've been unable to take payment from the credit card on file for this month's Dive Centre HQ subscription. This can happen for a number of reasons such as the card has expired, or its got a temporary block against it."
-      next_3_days: "Over the next 3 days, we'll try to process the card payment again, but incase the card has expired, please update your card details by clicking below."
-      account-will_remain: "Your account will remain active until the end of this billing cycle even if the payment fails again. However, if we don't receive payment within the next 30 days, your account will be suspended."
-      update_card_details_try_again: 'Update Card Details & Try Again'
-      any_questions: 'If you have any questions or need a hand getting your card details updated, please get in touch via emailing support@divecentrehq.com or giving us a call on +44 (0)3300 881 002 during UK business hours.'
-      all_the_best: 'All the best'

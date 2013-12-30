@@ -1,0 +1,10 @@
+en:
+  models:
+    dive_shop:
+      printer_types:
+        80mm: Letter / A4
+        70mm: 70mm Till Roll
+        tsp: Star TSP650 WebPRNT
+      barcode_printing_types:
+        a4: A4
+        zebra: Zebra Printing Language (ZPL)

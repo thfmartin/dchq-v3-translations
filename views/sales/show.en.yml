@@ -3,7 +3,8 @@ en:
     show:
       home: 'Home'
       sales: 'Sales'
-      sales_receipt: 'Sales Receipt'
+      sales_receipt: 'Sales Receipt: %{status}'
+      sales_receipt_refund: 'Sale Refund'
       print_receipt: 'Print Receipt'
       email_receipt: 'Email Receipt'
       greeting_text: 'Thank you for your purchase. If you have any questions about your order please contact us at %{email} or call us on %{tel}.'

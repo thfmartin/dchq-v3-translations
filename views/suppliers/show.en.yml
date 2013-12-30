@@ -17,7 +17,7 @@ en:
       supplier_contact_name: 'Name'
       supplier_contact_phone: 'Phone'
       supplier_contact_email: 'Email'
-      supplier_contact_location: 'Location'
+      supplier_contact_position: 'Position'
       supplier_contact_actions: 'Actions'
       edit_business_contact: 'Edit'
       delete_business_contact: 'Delete'

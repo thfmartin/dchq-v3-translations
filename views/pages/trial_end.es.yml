@@ -1,0 +1,6 @@
+es:
+  pages:
+    trial_end:
+      heading: "Acceso Negado"
+      content: "Su prueba gratis de Dive Centre HQ ha terminado. Para poder Utilizar Dive Centre HQ, su gerente necesita mejorar a un plan pago. Al hacer clic en 'Notificar al Gerente', nosotros enviaremos un correo-e al dueño de la cuenta y le informaremos de las limitaciones de su cuenta."
+      button: "Notificar al Gerente"

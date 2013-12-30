@@ -12,5 +12,6 @@ en:
     show_table_headers:
       order_id: 'Order ID'
       date: 'Date'
-      to_pay: 'Total'
+      to_pay: 'Sale Total'
       status: 'Status'
+      totals: Product Totals

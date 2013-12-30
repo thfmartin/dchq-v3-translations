@@ -6,4 +6,5 @@ en:
       phone: 'Phone:'
       mark_customer: '[customer]'
       mark_merchant: '[merchant]'
+      tax_id: 'Tax ID:'
 

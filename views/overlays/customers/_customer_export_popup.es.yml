@@ -1,0 +1,7 @@
+es:
+  overlays:
+    customers:
+      customer_export_popup:
+        header: 'Exportar Datos del Cliente'
+        content: 'Se generará un archivo csv que contiene a sus clientes. Su descarga comenzará tan pronto como cuando haga clic debajo.'
+        export_data: 'Exportar Datos del Cliente'

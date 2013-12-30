@@ -1,0 +1,7 @@
+es:
+  overlays:
+    products:
+      export_all_popup:
+        header: 'Exportar Datos del Producto'
+        content: 'Se generará un archivo csv que contiene los datos de sus productos.A csv file will be generated containing your products. Su descarga comenzará tan pronco como cuando haga clic debajo.'
+        export_data: 'Exportar Datos del Producto'

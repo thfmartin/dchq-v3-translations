@@ -1,8 +1,0 @@
-da:
-  categories:
-    index:
-      home: 'Home'
-      sales: 'Sales'
-      categories: 'Categories'
-      new_category: 'New Category'
-      total_categories: 'Total categories:'

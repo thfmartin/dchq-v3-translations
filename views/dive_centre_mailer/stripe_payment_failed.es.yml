@@ -1,0 +1,9 @@
+es:
+  dive_centre_mailer:
+    stripe_payment_failed:
+      unfortunately: "Desafortunadamente hemos sido incapaces de recibir el pago de la tarjeta de crédito en el archivo para la suscripción de este mes de Dive Centre HQ. Esto puede suceder por varios motivos, puede ser que la tarjeta de crédito haya vencido, o esté bloqueada temporalmente."
+      next_3_days: "Intentaremos nuevamente procesar el pago, pero en caso de que la tarjeta haya vencido, por favor actualice los detalles de su tarjeta, haga clic debajo."
+      account_will_remain: "Su cuenta permanecerá activa hasta el final de este ciclo de facturación, aunque el pago vuelva a fallar. Sin embargo, si no recibimos el pago dentro de los próximos 30 días, su cuenta será suspendida."
+      update_card_details_try_again: 'Actualizar Detalles de Tarjeta'
+      any_questions: 'Si usted tiene cualquier duda o necesita una mano para actualizar los detalles de su tarjeta, por favor contáctenos enviando un correo-e a  support@divecentrehq.com o llamándonos al +44 (0)3300 881 002 durante el horario laboral del Reino Unido.'
+      all_the_best: 'Todo lo mejor'

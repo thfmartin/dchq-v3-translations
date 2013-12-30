@@ -1,0 +1,8 @@
+es:
+  settings:
+    integrations:
+      home: 'Inicio'
+      settings: 'Ajustes'
+      settings_integrations: 'Ajustes: Integración con Terceros'
+      xero: 'Contabilidad En Línea Xero'
+      mailchimp: 'Mercadeo por Correo-e MailChimp'

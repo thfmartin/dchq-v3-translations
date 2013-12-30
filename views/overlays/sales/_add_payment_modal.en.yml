@@ -1,0 +1,7 @@
+en:
+  overlays:
+    sales:
+      add_payment_modal:
+        header: 'Add Payment'
+        content: "Enter the amount you're receiving:"
+        add_payment: 'Add Payment'

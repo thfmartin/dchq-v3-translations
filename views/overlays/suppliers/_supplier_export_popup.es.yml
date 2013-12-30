@@ -1,0 +1,7 @@
+es:
+  overlays:
+    suppliers:
+      supplier_export_popup:
+        header: 'Exportar Datos de Proveedor'
+        content: 'Se generará un archivo csv que contiene a sus proveedores. Su descarga comenzará tan pronco como cuado haga clic debajo.'
+        export_data: 'Exportar Datos de Proveedor'

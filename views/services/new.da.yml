@@ -1,6 +1,0 @@
-da:
-  services:
-    new:
-      home: 'Home'
-      servicing: 'Servicing'
-      add_service: 'Add Service'

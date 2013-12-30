@@ -5,7 +5,7 @@ en:
       type: Type
       name: Name
       locations: Locations
-      boat: Boat
+      boat: Resource
       start: Start
       end: End
       total_entries: 'Total Events: %{count}'

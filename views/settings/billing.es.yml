@@ -1,0 +1,29 @@
+es:
+  settings:
+    billing:
+      home: 'Inicio'
+      settings: 'Ajustes'
+      settings_biling: 'Ajustes: Facturación'
+      current_plan: 'Plan Actual: '
+      condition: 'Si usted está actualizando los detalles de su tarjeta,'
+      content: 'no se le cobrará'
+      untill_next_date: 'hasta su próximo ciclo de facturación.'
+      card_details: 'Detalles de la Tarjeta'
+      transaction_history: 'Historial de Transacciones'
+      pricing_plan: 'Plan de Precios'
+      pricing_plan_text: 'Seleccione su plan de precios.'
+      card_deatils: 'Detalles de la Tarjeta'
+      card_deatils_text: 'Ingrese los detalles de su tarjeta para hacer pagos.'
+      payment_declined: "Hemos intentado procesar su tarjeta el %{date} por %{amount}, pero su tarjeta fue rechazada. Por favor revise con el emisor de su tarjeta que no haya ningún bloqueo en la tarjeta. Mientras tanto, nosotros intentaremos procesar el pago nuevamente en %{next_attempt}."
+      card_number: 'Número de Tarjeta'
+      card_type: 'Tipo de Tarjeta'
+      card_expiry_month: 'Mes de Vencimiento'
+      card_expires_year: 'Año'
+      cvv: 'Código de Seguridad'
+      t_receipt: 'Recibo #'
+      t_amount: 'Monto'
+      t_date: 'Fecha'
+      no_transactions: 'No hay transacciones'
+      card_error: 'Hubo un error procesando su tarjeta - Por favor revise sus detalles e intente de nuevo'
+      success_updated: 'Se actualizaron satisfactoriamente sus detalles de facturación y su tarjeta se ha cambiado'
+

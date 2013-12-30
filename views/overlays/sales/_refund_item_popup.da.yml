@@ -1,7 +1,0 @@
-da:
-  overlays:
-    sales:
-      refund_item_popup:
-        header: 'Refund Line Item'
-        content: 'Quantity to refund'
-        refund_item: 'Refund Line Item'

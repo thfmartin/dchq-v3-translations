@@ -1,0 +1,11 @@
+es:
+  dive_centre_mailer:
+    notify_manager_trial_end:
+      staff_account_access_notification: 'Notificación de Acceso a la Cuenta del Personal'
+      finished_trial: 'Este es un mensaje de notificación generado por %{full_name}. La prueba gratis de Dive Centre HQ ha terminado.'
+      whats_required: "Qué se Necesita"
+      login: 'login'
+      you_need_to: 'Usted necesita'
+      as_soon_as_complete: 'y mejorar a un plan pago. Tan pronto como se complete esta acción, sus miembros de personal tendrán acceso de nuevo a Dive Centre HQ.'
+      any_questions: 'Si usted tiene cualquier duda o requiere de asistencia, por favor contacte a nuestro'
+      support_team: 'equipo de soporte'

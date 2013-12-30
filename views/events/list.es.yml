@@ -1,0 +1,5 @@
+es:
+  events:
+    list:
+      events_this_month: "Eventos de Este Mes"
+      event_list: "Lista de Eventos"

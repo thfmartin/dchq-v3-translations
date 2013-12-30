@@ -1,0 +1,10 @@
+es:
+  models:
+    dive_shop:
+      printer_types:
+        80mm: Carta / A4
+        70mm: Hasta 70mm Rollo
+        tsp: Estrella TSP650 WebPRNT
+      barcode_printing_types:
+        a4: A4
+        zebra: Zebra Printing Language (ZPL)

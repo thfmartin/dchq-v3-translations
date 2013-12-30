@@ -1,7 +1,0 @@
-da:
-  events:
-    print_pickups:
-      title: "Today's Pickups"
-      name: 'Name'
-      location: 'Location'
-      time: 'Time'

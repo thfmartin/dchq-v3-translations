@@ -19,3 +19,5 @@ en:
       retail_price: 'Retail Price'
       current_inventory_level: 'Current Inventory Level'
       low_inventory_level: 'Low Inventory Level'
+      delete_btn: 'Delete Product'
+      no_sales: 'No Sales'

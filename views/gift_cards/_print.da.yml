@@ -1,5 +1,0 @@
-da:
-  gift_cards:
-    print:
-      for_use_at: 'For use at'
-      valid_until: 'Valid until %{date}'

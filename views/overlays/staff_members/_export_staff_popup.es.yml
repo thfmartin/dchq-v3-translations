@@ -1,0 +1,7 @@
+es:
+  overlays:
+    staff_members:
+      export_staff_popup:
+        header: 'Exportar Datos del Personal'
+        content: 'Se generará un archivo csv que contiene a su personal. Su descarga comenzará tan pronto como cuando haga clic debajo.'
+        export_data: 'Exportar Datos del Personal'

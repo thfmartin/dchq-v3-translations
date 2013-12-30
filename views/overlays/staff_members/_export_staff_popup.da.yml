@@ -1,7 +1,0 @@
-da:
-  overlays:
-    staff_members:
-      export_staff_popup:
-        header: 'Export Staff Data'
-        content: 'A csv file will be generated containing your staff. Your download will start as soon as you click below.'
-        export_data: 'Export Staff Data'

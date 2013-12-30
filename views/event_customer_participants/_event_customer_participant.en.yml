@@ -3,4 +3,6 @@ en:
     event_customer_participant:
       pay_for_event: 'Pay for Event'
       paid: 'Paid'
+      layby: 'Lay-by'
+      cancelled: 'Cancelled'
 

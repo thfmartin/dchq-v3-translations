@@ -2,8 +2,10 @@ en:
   messages:
     notification:
       free_trial: 'You are currently using the free trial'
+      not_paid: 'We have been unable to take payment for your latest invoice'
   button:
     upgrade_plan: 'Upgrade Now'
+    update_card: 'Update Card Details'
     logout: 'Logout'
   top_menu:
     quick_search: 'Quick search...'
@@ -25,6 +27,7 @@ en:
     products: 'Products'
     brands: 'Brands'
     categories: 'Categories'
+    purchase_orders: "Purchase Orders"
     gift_cards: 'Gift Cards'
     credit_notes: 'Credit Notes'
     sales_targets: 'Sales Targets'
@@ -47,6 +50,6 @@ en:
       sales_by_staff: 'Sales by Staff'
       sales_by_brand: 'Sales by Brand'
       sales_by_category: 'Sales by Category'
-      popular_products: 'Popular Products'
+      popular_products: 'Sales by Product'
       event_sales: 'Event Sales'
       finance_reports: 'Finance Reports'

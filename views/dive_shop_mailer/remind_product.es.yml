@@ -1,0 +1,9 @@
+es:
+  dive_shop_mailer:
+    remind_product:
+      hello: 'Hola %{full_name},'
+      following_products: 'Los siguientes productos han adtivado un recordatorio de bajo inventario para %{dive_shop_name}.'
+      scu_product: 'SKU / PRODUCTO'
+      unit_price: 'PRECIO UNITARIO'
+      in_stock: 'ACTUALMENTE EN INVENTARIO'
+      best_wishes: 'Los mejores deseos,'

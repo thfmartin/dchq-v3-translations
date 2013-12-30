@@ -1,7 +1,0 @@
-da:
-  reports:
-    sales_by_staff:
-      home: 'Home'
-      reports: 'Reports'
-      report_sales_by_staff: 'Report: Sales by Staff'
-      sales_by_staff: 'Sales by Staff'

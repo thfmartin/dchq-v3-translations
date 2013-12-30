@@ -17,6 +17,7 @@ en:
       extra_information_text: 'Include customer source, default discounts and tags.'
       emergency_contact: 'Emergency Contact'
       emergency_contact_text: 'In the event of emergency.'
+      tax_exempt: 'Tax Exempt'
       address_details: 'Address Details'
       address_details_text: 'Full details on where the customer lives.'
       current_accomodation: 'Current Accommodation'

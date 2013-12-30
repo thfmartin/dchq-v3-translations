@@ -1,0 +1,7 @@
+es:
+  overlays:
+    products:
+      download_barcode_popup:
+        header: 'Exportar Datos de Códigos de Barras como un CSV'
+        content: 'Se generará un archivo csv que contendrá sus productos en un formato compatible con las impresoras de etiquetas Dymo. Su descarga comenzará tan pronco como cuando haga clic debajo.'
+        export_data: 'Exportar Datos de Códigos de Barras como un CSV'

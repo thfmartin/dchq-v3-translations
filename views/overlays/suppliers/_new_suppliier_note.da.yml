@@ -1,9 +1,0 @@
-da:
-  overlays:
-    suppliers:
-      new_suppliier_note:
-        header: 'Add Supplier Note'
-        note_content: 'Note Content'
-        upload_file: 'Upload File'
-        add_button: 'Add Supplier Note'
-

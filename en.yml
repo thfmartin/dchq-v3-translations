@@ -3,14 +3,17 @@ en:
     formats:
       default: '%d %b, %Y %I:%M%P'
       full_month: '%B'
-      datepicker_default: "dd-MM-yyyy hh:mm"
+      datepicker_default: "dd-mm-yyyy hh:ii"
+      datepicker_default_datejs: 'dd-MM-yyyy HH:mm'
       event_format: '%d-%m-%Y %H:%M'
       only_time: "%I:%M%P"
   date:
     formats:
       default: '%d %b, %Y'
       full_month: '%B'
-      datepicker_date: "dd-mm-yy"
+      date_only: '%d-%m-%Y'
+      datepicker_date: 'dd-mm-yyyy'
+      birthday: '%d-%m-%Y'
     day_names: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
     abbr_day_names: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
     month_names: [nil, "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -296,6 +299,8 @@ en:
         custom_fields: "Custom Fields"
         notes: "Customer Notes"
         send_event_related_emails: "Send Event Related Emails"
+        tax_id: 'Tax ID'
+        zero_tax_rate: 'Zero Rate Tax'
       course_event:
         certification_level_id: Course
         price: Course Price
@@ -313,6 +318,8 @@ en:
         pricing_plan_id: "Pricing Plan"
         referral_code: 'Referral Code (to share)'
         invite_code: 'Invite Code'
+        currency_for_dive_shop: Currency
+        tax_id: Tax ID
       dive_shop:
         name: "Dive Shop Name"
         time_zone: "Time Zone"
@@ -325,6 +332,7 @@ en:
         barcode_printing_type: "Barcode Printing"
         tax_rate_inclusion: 'Tax Options'
         standart_term: 'Terms'
+        tsp_url: Local IP Address
       dive_shops/boat:
         name: "Boat Name"
         color: "Calendar Color"
@@ -652,6 +660,7 @@ en:
       day: "day"
       own: "Own Kit"
       rent: "Rental"
+      item: 'item'
     customers:
       loading: "loading 10 more records..."
     services:
@@ -694,7 +703,34 @@ en:
       form:
         own: 'Own'
         rent: 'Rent'
-
+    emails_examples:
+      receipt: 'Receipt #%{receipt}'
+      further_instructions: 'Further Instructions'
+      any_questions: 'If you have any questions, please contact us at'
+      or_call: 'or call us on %{telephone}.'
+      event_date: 'Event Date'
+      with_regards: 'With regards,'
+      this_email_sent_to: 'This email was sent to %{email}'
+      sent_by_centre: 'This email was sent by %{dive_centre_name}.'
+      telephone: 'Telephone: %{tel}'
+      registered_address: 'Registered Address: %{address}'
+    sale_mailer:
+      receipt: 'Receipt #%{receipt}'
+      any_questions: 'If you have any questions, please contact us at'
+      or_call: 'or call us on %{telephone}.'
+      event: 'EVENT'
+      unit_price: 'UNIT PRICE'
+      qty: 'QTY'
+      sub_total: 'SUB-TOTAL'
+      subtotal: 'Sub Total:'
+      tax_inc: 'Tax Inc:'
+      net_due: 'NET DUE:'
+      payments: 'Payments'
+      with_regards: 'With regards,'
+      this_email_sent_to: 'This email was sent to %{email}'
+      sent_by_centre: 'This email was sent by %{dive_centre_name}.'
+      telephone: 'Telephone: %{tel}'
+      registered_address: 'Registered Address: %{address}'
   will_paginate:
     next_label: '»'
     previous_label: '«'

@@ -19,3 +19,5 @@ en:
       next_holiday: 'Next Holiday'
       next_holiday_text: "During this date range, the user will show as 'unavailable' when adding new events."
       save: 'Save'
+      english: 'English'
+      spanish: 'Spanish'

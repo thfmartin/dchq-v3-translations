@@ -1,8 +1,0 @@
-da:
-  products:
-    new:
-      home: 'Home'
-      sales: 'Sales'
-      products: 'Products'
-      create: 'Create'
-      create_product: 'Create Product'

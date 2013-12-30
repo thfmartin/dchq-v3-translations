@@ -21,3 +21,8 @@ en:
       products_sold: 'Products Sold'
       events_sold: 'Events Sold'
       services_sold: 'Services Sold'
+      recommended_actions: 'Final Setup Tasks'
+      recommended_actions_msg: 'To ensure a smooth trial, we recommend you complete the following tasks:'
+      new_customer: 'Add Customers'
+      new_product: 'Add Products'
+      new_event: 'Add Events'
